@@ -1,0 +1,49 @@
+#r {
+    color:red
+}
+
+#b {
+    color: blue
+}
+
+#g {
+    color: green
+}
+
+.center {
+    text-align: center
+}
+
+#big {
+    font-size: 300%
+}
+
+#tiny {
+    font-size: 15%
+}
+
+#bold {
+    font-weight:bold
+}
+
+#luci {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+#multi {
+    font-size: 150%;
+    font-weight: bold;
+    color: orange;
+}
+
+.styledFont {
+    color:darkblue;
+    font-variant: small-caps;
+}
+
+#styledImage {
+    border-style: dotted double;
+    border-width: 10px;
+    border-color: red blue; 
+
+}
